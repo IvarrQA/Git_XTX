@@ -5,3 +5,4 @@ Sorting is not possible, in the women's shoes section, because when you click "S
 4 Click on dropdown "Sort: Price: high to low"
 Products are sorted randomly, hence the user will not see products from high to low price
 Goods are sorted from high to low price
+Thank you for your attention
