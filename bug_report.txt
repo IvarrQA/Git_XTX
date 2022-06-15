@@ -1,0 +1,7 @@
+Sorting is not possible, in the women's shoes section, because when you click "Sort" it is sorted randomly
+1 Open on website: https://mercurio.netlify.app/
+2 Click on "Women" in the header
+3 Click on "Shop Now" button
+4 Click on dropdown "Sort: Price: high to low"
+Products are sorted randomly, hence the user will not see products from high to low price
+Goods are sorted from high to low price
